@@ -3,7 +3,14 @@
 A simple yet powerful user authentication system built with Flask. It includes login, registration, password reset, and a user dashboard. This app uses Flask-WTF for form handling, SQLAlchemy for database interactions, and Flask-Login for session management.
 
 ---
+## 🔗 Preview
 
+🌐 Live Preview: [https://flaskauth-a-simple-flask-authentication.onrender.com/login](https://flaskauth-a-simple-flask-authentication.onrender.com/login)
+
+
+![preview Screenshot](Preview.png)
+
+---
 ## 📁 Project Structure
 
 ```
